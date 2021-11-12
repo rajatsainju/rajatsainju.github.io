@@ -25,7 +25,7 @@ Scientific Reports (2019)
 Bingbing Li, Hongwu Peng, ***Rajat Sainju***, Yueuing Liang, Junhuan Yang, Lei Yang, Weiwen Jiang, Binghui Wang, Hang Liu, Caiwen Ding   
 arXiv preprint arXiv:2110.15733 (2021)
 
-## Conference Papers
+## Conference Proceedings
 
 - [Deep Learning-based Computer Vision for Radiation Defect Analysis: from Static Defect Segmentation to Dynamic Defect Tracking](https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/deep-learningbased-computer-vision-for-radiation-defect-analysis-from-static-defect-segmentation-to-dynamic-defect-tracking/6BE3271B54DE64F2DD4B14FF4C6308DE)\
 ***Rajat Sainju***, Wei-Ying Chen, Samuel Schaefer, Graham Roberts, Mychailo Toloczko, Danny Edwards, Meimei Li, Yuanyuan Zhu.   
