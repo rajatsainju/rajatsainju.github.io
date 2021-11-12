@@ -8,11 +8,11 @@ I am a Ph.D. student in the department of [Material Science and Engineering](htt
 
 ## Publications
 
--[Direction observation of tungsten oxidation studied by in situ environmental TEM](https://www.sciencedirect.com/science/article/pii/S1044580321001467)
+- [Direction observation of tungsten oxidation studied by in situ environmental TEM](https://www.sciencedirect.com/science/article/pii/S1044580321001467)
 Maanas Togaru, **Rajat Sainju**, Lichun Zhang, Weilin Jiang, Yuanyuan Zhu
 Materials Characterization (2021)
 
--[Deep learning for semantic segmentation of defects in advanced STEM images of steels](https://www.nature.com/articles/s41598-019-49105-0)
+- [Deep learning for semantic segmentation of defects in advanced STEM images of steels](https://www.nature.com/articles/s41598-019-49105-0)
 Graham Roberts, Simon Y Haile, **Rajat Sainju**, Danny J Edwards, Brian Hutchinson, Yuanyuan Zhu
 Scientific Reports (2019)
 
