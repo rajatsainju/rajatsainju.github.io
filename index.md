@@ -1,6 +1,6 @@
 ## Rajat Sainju
 
-<img src="/Sainju_MSE_Profile.JPG" width="200" height="200">
+<img src="/Sainju_MSE_Profile.JPG" width="200" height="270">
 
 [Google Scholar](https://scholar.google.com/citations?user=c1UCRoEAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/rajat-sainju-a3435812a) | [Email](rajat.sainju@uconn.edu)
 
