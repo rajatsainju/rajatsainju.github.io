@@ -1,10 +1,11 @@
 # Rajat Sainju
 
-<img src="/Sainju_MSE_Profile.JPG" width="200" height="270">
-
+<img src="/Sainju_MSE_Profile.JPG" width="200" height="270">.  
 CV | [Google Scholar](https://scholar.google.com/citations?user=c1UCRoEAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/rajat-sainju-a3435812a) | [Github](https://github.com/rajatsainju) | Email: rajat.sainju@uconn.edu
+    
+I am a Ph.D. student in the department of [Material Science and Engineering](https://mse.engr.uconn.edu/) at the University of Conneticut where I am advised by [Professor Yuanyuan Zhu](https://zhu.mse.uconn.edu/). In my research, I work on developing image processing (deep learning and traditional computer vision) algorithms for automated analysis of in-situ transmission electron microscopy videos/images and establish TEM benchmark datasets . My work also focuses on understanding the material dynamics of metal catalyst nanoparticles in oxidation and reduction conditions, high temperature oxidation mechanism of refactory metals, and nuclear irradition effects on reactor structural alloys.  
 
-I am a Ph.D. student in the department of [Material Science and Engineering](https://mse.engr.uconn.edu/) at the University of Conneticut where I am advised by [Professor Yuanyuan Zhu](https://zhu.mse.uconn.edu/). In my research, I work on developing image processing (deep learning and traditional computer vision) algorithms for automated analysis of in-situ transmission electron microscopy videos/images and establish TEM benchmark datasets . My work also focuses on understanding the material dynamics of metal catalyst nanoparticles in oxidation and reduction conditions, high temperature oxidation mechanism of refactory metals, and nuclear irradition effects on reactor structural alloys. 
+I completed my undergraduate education at Ramapo College majoring in Engineering Phycis with minors in Computer Science and Mathematics.
 
 ## Publications
 
@@ -33,5 +34,14 @@ Microscopy and Microanalysis, S2 (2020)
 - [Automated Quantitative Analysis of Extended Irradiation Defects-Dislocations, Voids and Precipitates in Neutron Irradiated HT-9 Steel](https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/automated-quantitative-analysis-of-extended-irradiation-defects-dislocations-voids-and-precipitates-in-neutron-irradiated-ht9-steel/1A80D42E3EC419284534A68F6940CF0D)\
 ***Rajat Sainju***, Colin Ophus, Mychailo B Toloczko, Danny J Edwards, Yuanyuan Zhu.  
 Microscopy and Microanalysis, S2 (2019)
+
+## Teaching
+I have served as a teaching assistant for the following courses at the University of Connecticut.
+
+- MSE 4097: Introduction to Research - Fall 2021
+- MSE 3002: Transport Phenomena in Materials Processing - Spring 2020
+- MSE 5301: Thermodynamics of Materials - Fall 2019
+
+
 
 
