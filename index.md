@@ -21,7 +21,7 @@ Scientific Reports (2019)
 
 ### Deep Learning
 
-- [Detecting Gender Bias in Transformer-based Models: A Case Study on BERT Authors](https://arxiv.org/abs/2110.15733)\
+- [Detecting Gender Bias in Transformer-based Models: A Case Study on BERT](https://arxiv.org/abs/2110.15733)\
 Bingbing Li, Hongwu Peng, ***Rajat Sainju***, Yueuing Liang, Junhuan Yang, Lei Yang, Yueying Liang, Weiwen Jiang, Binghui Wang, Hang Liu, Caiwen Ding   
 arXiv preprint arXiv:2110.15733 (2021)
 
