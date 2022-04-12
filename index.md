@@ -11,6 +11,10 @@ I completed my undergraduate education at Ramapo College majoring in Engineering
 
 ### Materials Science
 
+- [In Situ Studies of Single-Nanoparticle-Level Nickel Thermal Oxidation: From Early Oxide Nucleation to Diffusion-Balanced Oxide Thickening](https://pubs.acs.org/doi/10.1021/acsnano.2c00742)\
+***Rajat Sainju***, Dinithi Rathnayake, Haiyan Tan, George Bollas, Avinash M. Dongare, Steven L. Suib, and Yuanyuan Zhu*   
+ACS Nano (2022)
+
 - **Automated Quantitative Analysis of Extended Irradiation Defects – Dislocation Lines, Loops, Voids and Precipitates in Neutron Irradiated HT-9 Steel**\
 *in preparation*
 
