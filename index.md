@@ -11,7 +11,7 @@ I completed my undergraduate education at Ramapo College majoring in Engineering
 
 ### Materials Science
 
-- [Automated Quantitative Analysis of Extended Irradiation Defects – Dislocation Lines, Loops, Voids and Precipitates in Neutron Irradiated HT-9 Steel]
+- [Automated Quantitative Analysis of Extended Irradiation Defects – Dislocation Lines, Loops, Voids and Precipitates in Neutron Irradiated HT-9 Steel]\
 ***in preparation***
 
 - [Direction observation of tungsten oxidation studied by in situ environmental TEM](https://www.sciencedirect.com/science/article/pii/S1044580321001467)\
