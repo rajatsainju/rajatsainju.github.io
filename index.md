@@ -13,18 +13,18 @@ I completed my undergraduate education at Ramapo College majoring in Engineering
 
 - [In Situ Studies of Single-Nanoparticle-Level Nickel Thermal Oxidation: From Early Oxide Nucleation to Diffusion-Balanced Oxide Thickening](https://pubs.acs.org/doi/10.1021/acsnano.2c00742)\
 ***Rajat Sainju***, Dinithi Rathnayake, Haiyan Tan, George Bollas, Avinash M. Dongare, Steven L. Suib, and Yuanyuan Zhu*   
-ACS Nano (2022)
+**ACS Nano** (2022)
 
 - **Automated Quantitative Analysis of Extended Irradiation Defects – Dislocation Lines, Loops, Voids and Precipitates in Neutron Irradiated HT-9 Steel**\
 *in preparation*
 
 - [Direction observation of tungsten oxidation studied by in situ environmental TEM](https://www.sciencedirect.com/science/article/pii/S1044580321001467)\
 Maanas Togaru, ***Rajat Sainju***, Lichun Zhang, Weilin Jiang, Yuanyuan Zhu.  
-Materials Characterization (2021)
+**Materials Characterization** (2021)
 
 - [Deep learning for semantic segmentation of defects in advanced STEM images of steels](https://www.nature.com/articles/s41598-019-49105-0)\
 Graham Roberts, Simon Y Haile, ***Rajat Sainju***, Danny J Edwards, Brian Hutchinson, Yuanyuan Zhu    
-Scientific Reports (2019)
+**Scientific Reports** (2019)
 
 ### Deep Learning
 
