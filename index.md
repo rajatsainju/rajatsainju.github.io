@@ -11,6 +11,10 @@ I completed my undergraduate education at Ramapo College majoring in Engineering
 
 ### Materials Science
 
+- [_DefectTrack_: a deep learning-based multi-object tracking algorithm for quantitative defect analysis of in-situ TEM videos in real-time](https://www.nature.com/articles/s41598-022-19697-1)\
+***Rajat Sainju***, Wei‑Ying Chen, Samuel Schaefer, Qian Yang, Caiwen Ding, Meimei Li, and Yuanyuan Zhu*   
+**Scientific Reports** (2022)
+
 - [In Situ Studies of Single-Nanoparticle-Level Nickel Thermal Oxidation: From Early Oxide Nucleation to Diffusion-Balanced Oxide Thickening](https://pubs.acs.org/doi/10.1021/acsnano.2c00742)\
 ***Rajat Sainju***, Dinithi Rathnayake, Haiyan Tan, George Bollas, Avinash M. Dongare, Steven L. Suib, and Yuanyuan Zhu*   
 **ACS Nano** (2022)
